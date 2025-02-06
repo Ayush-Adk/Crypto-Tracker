@@ -14,3 +14,6 @@
 ## Coin information with chart
 ### You can get the chart by just clicking on the coin. react-google-charts is used to display the charts and react-router to switch between pages. 
 ![Screenshot 2024-10-01 175639](https://github.com/user-attachments/assets/0262d832-3100-42a2-a593-6c6bd40c0447)
+
+
+Ayush Adk
