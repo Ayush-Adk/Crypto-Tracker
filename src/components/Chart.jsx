@@ -3,7 +3,7 @@ import Chart from 'react-google-charts'
 function LineChart({historical}) {
     const [chart,setChart]=useState([["Date","Price"]])
 
-    useEffect(()=>{
+  useEffect(()=>{
         let dataCopy=[["Date","Price"]]
         if(historical.prices){
             historical.prices.map((item)=>{
